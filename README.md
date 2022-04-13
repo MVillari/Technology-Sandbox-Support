@@ -1,2 +1,2 @@
-# Technology Sandbox DevTeam
-This repo will be used by the Developer Playground development team for tracking issues &amp; code
+# Technology Sandbox 
+This repo will be used to track external feedback, requests, and issues.  
